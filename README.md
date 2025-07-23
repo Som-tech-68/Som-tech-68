@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Dev | Pythonist | Git Wizard | FlutterFlow No-Code Builder</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBnM2E0czFmdmFobmllNXYydzVjeWRrZzM2ejBvdjdmbnl5dTFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBnM2E0czFmdmFobmllNXYydzVjeWRrZzM2ejBvdjdmbnl5dTFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 📸 **Here’s a Peek at My Dev World**
 
 <p align="center">
-  <img src="https://plus.unsplash.com/premium_vector-1727448490518-477e95ae1ca3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400" />
+  <img src="https://plus.unsplash.com/premium_vector-1727448490518-477e95ae1ca3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
 </p>
 
 ---
