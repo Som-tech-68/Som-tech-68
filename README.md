@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer+with+Python+Edge;Git+Master+and+UI+Designer;Building+No-code+Apps+with+FlutterFlow;Loves+clean,+scalable+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer+with+Python;Git+Master+and+UI+Designer;Building+No-code+Apps+with+FlutterFlow;Loves+clean,+scalable+code" />
 </p>
 
 <p align="center">
