@@ -28,9 +28,9 @@
 
 📌 **Featured Projects**
 
-- 🎬 [QuickShow – Movie Trailer UI](https://github.com/your-username/quickshow)  
+- 🎬 [QuickShow – Movie Trailer UI](https://github.com/Som-tech-68/quickshow)  
   React + Tailwind based trailer showcase site 🎞️  
-- 🌐 [Animated Developer Portfolio](https://github.com/your-username/portfolio)  
+- 🌐 [Animated Developer Portfolio](https://github.com/Som-tech-68/portfolio)  
   Custom-built landing page inspired by Huly.io 💼
 
 ---
