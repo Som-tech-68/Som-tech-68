@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Som Dwivedi</h1>
 <h3 align="center">Frontend Dev | Pythonist | Git Wizard | FlutterFlow No-Code Builder</h3>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBnM2E0czFmdmFobmllNXYydzVjeWRrZzM2ejBvdjdmbnl5dTFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer+with+Python+Edge;Git+Master+and+UI+Designer;Building+No-code+Apps+with+FlutterFlow;Loves+clean,+scalable+code" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Som-tech-68&label=Visitors&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 ---
 
 🌟 **About Me**
@@ -10,6 +22,14 @@
   `React.js` • `HTML` • `CSS` • `JavaScript` • `TailwindCSS` • `Python` • `Git` • `FlutterFlow`
 - 🚀 Always exploring new tools & building useful apps
 - 📚 Currently learning **Next.js** and **AI integrations**
+
+---
+
+📸 **Here’s a Peek at My Dev World**
+
+<p align="center">
+  <img src="https://plus.unsplash.com/premium_vector-1727448490518-477e95ae1ca3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="600" />
+</p>
 
 ---
 
@@ -44,11 +64,25 @@
 
 ---
 
-📫 **Let's Connect**
+🌱 **Contribution Graph**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Som-tech-68&theme=react-dark" />
+</p>
 
 ---
 
-⭐ *If you like what I do, consider giving a star to my repositories!*
+📫 **Let's Connect**
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like what I do, consider giving a ⭐ to my repositories!*
