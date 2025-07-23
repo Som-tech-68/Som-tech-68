@@ -67,8 +67,9 @@
 🌱 **Contribution Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Som-tech-68&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Som-tech-68&theme=react-dark&area=true&hide_border=true" />
 </p>
+
 
 ---
 
