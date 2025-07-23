@@ -27,10 +27,6 @@
 
 📸 **Here’s a Peek at My Dev World**
 
-<p align="center">
-  <img src="https://plus.unsplash.com/premium_vector-1727448490518-477e95ae1ca3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" />
-</p>
-
 ---
 
 🔨 **Tech Stack**
