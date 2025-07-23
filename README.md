@@ -75,10 +75,10 @@
 📫 **Let's Connect**
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:somdwivedi657@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/som-dwivedi-34bb30346/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
