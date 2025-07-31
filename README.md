@@ -48,6 +48,8 @@
   JavaScript + HTML and CSS 🎞️  
 - 🌐 [3D Simulation of Solar System](https://frontend-assignment-som-dwivedi.vercel.app/)  
   Custom-built rotations and orbits with 3Js 💼
+- ▶️ [Youtube Clone](https://som-tech-68.github.io/Youtube-clone/)  
+  HTML and CSS 🎸   
 
 ---
 
