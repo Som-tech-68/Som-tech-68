@@ -44,10 +44,10 @@
 
 📌 **Featured Projects**
 
-- 🎬 [QuickShow – Movie Trailer UI](https://github.com/Som-tech-68/quickshow)  
-  React + Tailwind based trailer showcase site 🎞️  
-- 🌐 [Animated Developer Portfolio](https://github.com/Som-tech-68/portfolio)  
-  Custom-built landing page inspired by Huly.io 💼
+- 👟 [E-Commercial Sneakers Website](https://sneaker-head-two.vercel.app/)  
+  JavaScript + HTML and CSS 🎞️  
+- 🌐 [3D Simulation of Solar System](https://frontend-assignment-som-dwivedi.vercel.app/)  
+  Custom-built rotations and orbits with 3Js 💼
 
 ---
 
